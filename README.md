@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**RahulD1606/RahulD1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Rahul Dudhe!
 
-Here are some ideas to get you started:
+I'm a Data Analyst passionate about storytelling through data.  
+Currently working on Power BI dashboards, analytics, and SQL reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Power BI, DAX, Excel
+- Python (Pandas, NumPy, Matplotlib)
+- SQL, MySQL
+- Data Visualization & Reporting
+
+## 📊 Featured Project
+**Coffee Shop Sales Analysis Dashboard**  
+📎 [View on GitHub](https://github.com/YourUsername/CoffeeShopSalesDashboard)  
+🔧 Tools: Power BI, Excel, DAX
