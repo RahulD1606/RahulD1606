@@ -6,7 +6,6 @@ Currently working on Power BI dashboards, analytics, and SQL reporting.
 
 ## 🛠️ Skills
 - Power BI, DAX, Excel
-- Python (Pandas, NumPy, Matplotlib)
 - SQL, MySQL
 - Data Visualization & Reporting
 
