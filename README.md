@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Rahul Dudhe]</h1>
+<h1 align="center">Hi 👋, I'm Rahul Dudhe </h1>
 <h3 align="center">🏆 PL-300 Certified | Power BI Developer | 3.4+ Years of Experience</h3>
 
 
